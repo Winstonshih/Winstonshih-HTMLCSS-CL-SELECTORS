@@ -14,6 +14,6 @@ yellow background.
 /* ------------------------------------------------------------
 TODO 3: Style the element with ID "main-title" to be uppercase.
 ------------------------------------------------------------ */
-.main-title{
+#main-title{
   text-transform: uppercase;
 }
